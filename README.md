@@ -105,11 +105,17 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+## 👋 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Ravi Yadav**, a results-driven Data Engineer and Database Developer with 1.9 years of hands-on experience in **SQL**, **Python**, **PostgreSQL**, **MongoDB**, and **data visualization**.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+I specialize in building scalable data pipelines, optimizing complex queries, and designing efficient data architectures. Whether it's crafting normalized ERDs, creating insightful dashboards, or automating workflows with Python—I'm all about turning raw data into real impact.
+
+🔍 Passionate about **data engineering**, **AI/ML**, and solving real-world problems through clean, efficient code.  
+🚀 Currently exploring **Generative AI** and modern data stack tools to stay ahead in the fast-evolving data space.
+
+Let’s connect and create something awesome with data!
+
 ---
 
 ## ☕ Stay Connected
@@ -117,5 +123,12 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-yadav-471508193/)
+
+---
+## 📚 Reference
+
+This project is inspired by [Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/), whose real-world approach to data engineering is showcased on his YouTube channel [Data with Baraa](https://www.youtube.com/@DataWithBaraa).
+
+🔗 [Watch the original video](https://youtu.be/9GVqKuTVANE?si=SZwhuNYlBMKNJcsh) — it provides an excellent end-to-end walkthrough of how real-world data projects are structured and executed. Highly recommended!
 
 ---
